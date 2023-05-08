@@ -6,4 +6,4 @@ In this project, we are tasked to make an autocomplete program using the C langu
 Word selection is based on the weight of each word
 
 Further instructions are posted in professor Guerzhoy's website.
-https://www.cs.toronto.edu/~guerzhoy/190/proj/proj1/
+https://www.cs.toronto.edu/~guerzhoy/190/proj/proj1/autocomplete.pdf
